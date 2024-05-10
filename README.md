@@ -3,7 +3,7 @@
 ### Follow the below steps to get your discord developer badge for free
 
 
-Make sure you have python installed. check it by running this command in command prompt, terminal.
+Make sure you have [python](https://www.python.org/downloads/) installed. check it by running this command in command prompt, terminal.
 ```bash
 python --version # Windows
 
@@ -71,7 +71,12 @@ Python 3.12.3 # python version can be different for you
     ```
 11. You will see the link in your terminal. Click on that link to invite the bot in any server. Create a new server if you don't have one.
 
-12. run the `/badge` command in server after inviting the bot and wait for 24 hours. click on the link provided by the bot to claim your `active-developer-badge`
+12. Make sure you have enabled `use data to improve discord` and `use data to personalise my discord experience` options under `how we use your data` section in settings > privacy and safety
+
+    ![image](https://github.com/MannuVilasara/get-discord-developer-badge/assets/117009138/4430da86-7963-4b1b-b3e5-bce6bdbf9099)
+
+
+13. run the `/badge` command in server after inviting the bot and wait for 24 hours. click on the link provided by the bot to claim your `active-developer-badge`
 
 
 
